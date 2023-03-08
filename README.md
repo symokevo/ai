@@ -1,0 +1,1 @@
+This folder contains a bunch of crazy AI projects that will make you think different about the power of AI
